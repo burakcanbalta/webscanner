@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 1. Bu projeyi klonla veya ZIP olarak indir:
 ```bash
-git clone https://github.com/kullanici/ultimate-web-pentest.git
+git clone https://github.com/burakcanbalta/ultimate-web-pentest.git
 cd ultimate-web-pentest
 ```
 
